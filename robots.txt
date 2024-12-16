@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:
 Sitemap:https://sabackplumbing.com/sitemap.xml
+favicon:https://sabackplumbing.com/favicon.ico
